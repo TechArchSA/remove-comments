@@ -12,3 +12,8 @@ Script to remove code comments from the codes
 | PHP        	|      	|
 
 
+
+## Todo 
+
+- Add more language
+- Add number of lines 
